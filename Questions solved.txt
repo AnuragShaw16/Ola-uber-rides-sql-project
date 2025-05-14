@@ -1,0 +1,47 @@
+Questions solved:
+
+1- total trips
+
+2- total drivers
+
+3- total earnings
+
+4- total Completed trips
+
+5- total searches
+
+6- total searches which got estimate
+
+7- total searches for quotes
+
+8- total searches which got quotes
+
+9- total driver cancelled
+
+10- total otp entered 
+
+11- total end ride
+
+12- average distance per trip
+
+13- average fare per trip
+
+14- distance travelled
+
+15- which is the most used payment method?
+
+16- the highest payment was made through which instrument
+
+17- which two locations had the most trips?
+
+18- which duration had more trips?
+
+19- which driver , customer pair had more orders?
+
+20- search to estimate rate
+
+21- which area got highest trips in which duration?
+
+22- which area got the highest fares, cancellations, trips?
+
+23- which duration got the highest trips and fares?
